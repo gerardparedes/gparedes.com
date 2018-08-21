@@ -1,11 +1,11 @@
 # Site settings
-title:       Ignasi Ballarà
-email:       ignasi@iballara.com
-author:      Ignasi Ballarà
+title:       Gerard Paredes
+email:       gerard.paredes.piera@gmail.com
+author:      Gerard Paredes
 baseurl:     ""
-url:         "http://www.iballara.com"
+url:         "http://www.gparedes.com"
 date_format: "%b %-d, %Y"
-description: A blog on computer science.
+description: Un blog d'enginyeria mecànica.
 
 # Jekyll settings
 plugins:
@@ -13,7 +13,7 @@ plugins:
   - jekyll-gist
 
 # Google services
-google_analytics: UA-124207859-1
+google_analytics:
 google_verification:
 
 # Optional features
@@ -27,13 +27,13 @@ enable_mathjax:       true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname: iballara
+disqus_shortname:
 
 # Social icons
-github_username: iballara
+github_username:
 stackoverflow_id: 
-twitter_username: iballara
-linkedin_username: ignasi-ballara
+twitter_username: Ge_Paredes
+linkedin_username: gerard-paredes-63484683
 bitcoin_url:
 paypal_url: 
 
