@@ -2,7 +2,7 @@
 title:       Gerard Paredes
 email:       gerard.paredes.piera@gmail.com
 author:      Gerard Paredes
-baseurl:     ""
+baseurl:     "gparedes.com"
 url:         "http://www.gparedes.com"
 date_format: "%b %-d, %Y"
 description: Un blog d'enginyeria mecànica.
@@ -13,7 +13,7 @@ plugins:
   - jekyll-gist
 
 # Google services
-google_analytics:
+google_analytics: UA-124634937-1
 google_verification:
 
 # Optional features
@@ -27,13 +27,13 @@ enable_mathjax:       true
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: gerards-blog
 
 # Social icons
 github_username:
 stackoverflow_id: 
-twitter_username: Ge_Paredes
-linkedin_username: gerard-paredes-63484683
+twitter_username:
+linkedin_username: gerard-paredes
 bitcoin_url:
 paypal_url: 
 
