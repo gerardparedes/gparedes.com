@@ -1,12 +1,10 @@
 ---
 layout:     post
-title:      Avui he anat al super
-date:       2018-08-25
+title:      Això es un altre post
+date:       2018-08-21
 summary:    Aixo es un petit resum per explicar de què va.
 categories: mecanica
 comments: true
 ---
-
-### Títol
-
-Em dic Gerard.
+#Minititol
+Ara ja començo
