@@ -1,11 +1,11 @@
 ---
 layout:     post
-title:      BOna tarda
+title:      TFMFP180
 date:       2018-08-25
-summary:    Aixo es un petit resum per explicar de què va.
+summary:    El meu primer projecte
 categories: mecanica
 comments: true
 ---
-##Bona tarda amb l'Ignasi
+##Trituradora Forestal i Fresadora 
 
-Una mica de lletra
+Per començar...
