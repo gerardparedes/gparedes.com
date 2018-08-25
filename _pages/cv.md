@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Currículum](/files/technical.pdf) (1 Page)
+[Currículum](/files/CV.pdf) (1 Page)
 <br>
 <br>
 
