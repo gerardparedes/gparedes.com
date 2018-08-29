@@ -23,3 +23,5 @@ camí o deixar una extenció de apunt per cultivar.
 
 És de aquests dos conseptes que en surt la TFMFP (Trituradora Forestal de 
 Martell Fixe Pedra) 
+
+Els propers dies aniré penjant aspectes teorics i tècnics sobre aquesta màquina
