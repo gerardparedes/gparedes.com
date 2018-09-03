@@ -16,6 +16,7 @@ Quan em vaig trobar amb el repte de dissenyar una màquina amb tants elements va
 per dividir-la en diferents grups o subconjunts. Per tant queda dividida en 9 grans grups.
 
 ```
+
 Xassís (XA)
 Rotor (RO)
 Rodet Frontal (RO_FR)
