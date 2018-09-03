@@ -25,6 +25,7 @@ Grup Reductor (GRTFT)
 Portes (PO)
 Contra-Cutxilles (CO_CU)
 Patins i proteccions (PA+PO)
+
 ```
 
 ## Xassís
