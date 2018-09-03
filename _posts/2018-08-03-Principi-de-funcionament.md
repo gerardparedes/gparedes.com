@@ -6,9 +6,9 @@ summary:    Bases del TFG
 categories: mecanica
 comments: true
 ---
-#Càlcul principal del TFG
+# Càlcul principal del TFG
 
-##Engranatges
+## Engranatges
 
 La màquina que comentava al post anterior té la particularitat de que transmet
 la potència del tractor al rotor (conjunt que realitza la funció de triturar i fresar)
