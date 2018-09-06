@@ -15,7 +15,7 @@ la potència del tractor al rotor (conjunt que realitza la funció de triturar i
 a través d'un tren reductor d'engranatges. És en aquest punt on vaig focalitzar 
 els càlculs.
 
-![Principi de funcionament](/images/TFMFP180_GLOBAL_37.jpg)
+![Principi de funcionament](/images/TFMFP180_GLOBAL_37.png)
 
 A la imatge anterior podem veure on entra la potència del tractor i on la entrega al 
 rotor mitjançant els engranatges.
