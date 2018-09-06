@@ -29,5 +29,12 @@ Patins i proteccions (PA+PO)
 
 ```
 
-## Xassís
+## Plànols 
+
+En el següent enllaç podreu trobar els plànols de tots els conjunts.
+
+S'ha de dir que hi ha moltes peces que van directa a làser però de totes maneres es 
+van acotar per poder entregar com a projecte acadèmic.
+
+[Plànols TFMFP](/files/DOC_2_PLÀNOLS_TFMFP180.pdf) (1 Page)
 
