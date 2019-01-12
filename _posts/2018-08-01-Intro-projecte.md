@@ -7,7 +7,6 @@ categories: mecanica
 comments: true
 ---
 # Trituradora Forestal i Fresadora
-# Prova
 ## Breu introducció
 
 En aquest post vull fer un petit resum del meu primer projecte.
