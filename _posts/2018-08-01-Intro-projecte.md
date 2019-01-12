@@ -6,7 +6,7 @@ summary:    El meu primer projecte
 categories: mecanica
 comments: true
 ---
-# Trituradora Forestal i Fresadora
+# Trituradora Forestal i Fresadora ()
 ## Breu introducció
 
 En aquest post vull fer un petit resum del meu primer projecte.
