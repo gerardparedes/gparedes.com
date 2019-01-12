@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Introducció al TFG
+title:      Introducció al meu projecte
 date:       2018-09-01
 summary:    El meu primer projecte
 categories: mecanica
@@ -10,7 +10,7 @@ comments: true
 
 ## Breu introducció
 
-En aquest post vull fer un petit resum del meu Treball Final de Grau.
+En aquest post vull fer un petit resum del meu primer projecte.
 
 Primer us vull explicar què és una Trituradora Forestal (TF). Una TF és una
 màquina que es connecta a la toma de força de un tractor, cosa que ens permet tenir
@@ -63,11 +63,11 @@ Patins i proteccions (PA+PO)
 En el següent enllaç podreu trobar els plànols de tots els conjunts.
 
 S'ha de dir que hi ha moltes peces que van directa a làser però de totes maneres es 
-van acotar per poder entregar com a projecte acadèmic.
+van acotar per tenir una referància. 
 
 [Plànols TFMFP](/files/DOC_2_PLÀNOLS_TFMFP180.pdf) (1 Page)
 
-## Càlcul principal del TFG
+## Càlcul principal del projecte
 
 ### Engranatges
 
